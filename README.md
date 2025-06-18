@@ -2,7 +2,7 @@
 
 This repository tracks my progress in competitive programming with solutions from **Codeforces** and **LeetCode**.
 
-## 🌐 Platforms
+## 🌐 My Handles
 - [Codeforces](https://codeforces.com/profile/robinpoddar)
 - [LeetCode](https://leetcode.com/u/robinnits/)
 
