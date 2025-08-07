@@ -7,8 +7,8 @@ This repository tracks my progress in competitive programming with solutions fro
 - [LeetCode](https://leetcode.com/u/robinnits/)
 
 ## 📊 Progress
-- ✔️ Solved: **Codeforces: 65 problems**
-- ✔️ Solved: **LeetCode: 04 problems**
+- ✔️ Solved: **Codeforces: 69 problems**
+- ✔️ Solved: **LeetCode: 05 problems**
 
 ## 🛠 Language
 - C++
